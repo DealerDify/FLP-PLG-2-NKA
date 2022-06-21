@@ -1,0 +1,3 @@
+Složka test obsahuje manuální testy pro program.
+Testy s názvem errX.in se očekávají že program zahlásí error (a neobsahují výstupní soubor)
+Testy s názvem testX.in obsahují výstup v souboru testX.out
